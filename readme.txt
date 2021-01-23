@@ -1,4 +1,3 @@
-- composer install
 - Setting .env
 - atur Database sesuai dengan configrasi anda
 - atur value env
