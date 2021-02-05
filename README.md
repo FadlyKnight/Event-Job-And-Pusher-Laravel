@@ -3,12 +3,12 @@
 - atur Database sesuai dengan configrasi anda
 - atur value env
 menjadi : 
-BROADCAST_DRIVER=pusher
-QUEUE_CONNECTION=database
-PUSHER_APP_ID=114xxx
-PUSHER_APP_KEY=1a29fceaxxxxx
-PUSHER_APP_SECRET=a84920432exxxxx
-PUSHER_APP_CLUSTER=ap1
+BROADCAST_DRIVER=pusher <br/>
+QUEUE_CONNECTION=database <br/>
+PUSHER_APP_ID=114xxx <br/>
+PUSHER_APP_KEY=1a29fceaxxxxx <br/>
+PUSHER_APP_SECRET=a84920432exxxxx <br/>
+PUSHER_APP_CLUSTER=ap1 <br/>
 
 - Tambahkan Library Pusher
 composer require pusher/pusher-php-server "~3.0" 
